@@ -14,6 +14,20 @@ dependencies:
   smooth_page_indicator: ^1.1.0
   flutter_staggered_animations: ^1.1.1
   intl: ^0.18.1
+  flutter_cache_manager: ^3.3.1
+  octo_image: ^2.0.0
+  sqflite: ^2.3.0
+  path_provider: ^2.1.1
+  http: ^1.1.0
+  crypto: ^3.0.3
+  uuid: ^4.2.1
+  path: ^1.8.3
+  file: ^7.0.0
+  rxdart: ^0.27.7
+  sqflite_common_ffi: ^2.3.0
+  sqflite_common_ffi_web: ^0.4.0
+  path_provider_platform_interface: ^2.1.1
+  flutter_cache_manager_firebase: ^2.0.0
 
 dev_dependencies:
   flutter_test:
